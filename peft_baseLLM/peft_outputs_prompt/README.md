@@ -1,6 +1,6 @@
 ---
 library_name: peft
-base_model: bigscience/bloomz-560m
+base_model: EleutherAI/pythia-70m
 ---
 
 # Model Card for Model ID
