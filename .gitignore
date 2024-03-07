@@ -175,3 +175,7 @@ cython_debug/
 
 # tensorflow checkpoints
 checkpoints
+
+# mlflow related
+mlartifacts
+mlruns
